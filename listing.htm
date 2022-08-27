@@ -1,0 +1,55 @@
+
+<!-- Author: Sonali Chauhan
+	Date: 19/05/2020 
+	Description: Listing file to list all items present in the goods.xml file.
+-->
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<meta name="description" content="new customer registration" />
+	<meta name="keywords" content="HTML, JavaScript, PHP, ajax, XML, XSLT" />
+	<meta name="author" content="Sonali Chauhan" />
+	<script type="text/javascript" src="listing.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<title>Listing</title>
+</head>
+<body><center>
+	<br/>
+	<a href="listing.htm">Listing</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+	<a href="processing.htm">Processing</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+	<a href="mlogout.php">Logout</a><br/><br/>
+	<hr>
+		<h2>Add new item</h2><br/>
+		<table border="1">
+			<tr>
+				<td><label for="itemname">Item Name: </label></td>
+				<td><input type="text" name="itemname" id="itemname" /></td>
+			</tr>
+			<tr>
+				<td><label for="itemprice">Item Price: </label></td>
+				<td><input type="text" name="itemprice" id="itemprice" /></td>
+			</tr>
+			<tr>
+				<td><label for="itemquantity">Item Quantity: </label></td>
+				<td><input type="text" name="itemquantity" id="itemquantity" /></td>
+			</tr>
+
+			<tr>
+				<td><label for="itemdescription">Item Description: </label></td>
+				<td><textarea id="itemdescription" name="itemdescription" rows="4" cols="50"></textarea></td>
+			</tr>			
+			<tr>
+				<td><button onclick="addItem();">Add item</button></td>
+				<td><button onclick="resetForm();">Reset</button></td>
+			</tr>
+			
+		</table>
+		
+
+
+	<p id="msg"></p>
+</body>
+</center>
+</html>
