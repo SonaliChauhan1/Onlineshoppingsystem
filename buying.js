@@ -5,7 +5,6 @@
 	Description: The buying file to perform cart functionality.
  */
 
-
 var xhr = false;  
 if (window.XMLHttpRequest)
 {
