@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Goods>
+  <Item>
+    <ItemNumber>246236049</ItemNumber>
+    <ItemName>iphone 6s</ItemName>
+    <ItemDescription>new dual-camera system</ItemDescription>
+    <ItemPrice>600</ItemPrice>
+    <ItemQuantity>72</ItemQuantity>
+    <OnHold>8</OnHold>
+    <Sold>0</Sold>
+  </Item>
+<Item><ItemNumber>1555955325</ItemNumber><ItemName>Samsung Galaxy 11</ItemName><ItemDescription>Ultra Wide and Night mode.</ItemDescription><ItemPrice>450</ItemPrice><ItemQuantity>64</ItemQuantity><OnHold>1</OnHold><Sold>0</Sold></Item><Item><ItemNumber>554900767</ItemNumber><ItemName>iphone 11 pro</ItemName><ItemDescription>Retina XDR. A13 Bionic.</ItemDescription><ItemPrice>480</ItemPrice><ItemQuantity>25</ItemQuantity><OnHold>0</OnHold><Sold>0</Sold></Item><Item><ItemNumber>1428549044</ItemNumber><ItemName>7 one plus pro</ItemName><ItemDescription>Retina XDR. A13 Bionic.</ItemDescription><ItemPrice>560</ItemPrice><ItemQuantity>2</ItemQuantity><OnHold>0</OnHold><Sold>0</Sold></Item><Item><ItemNumber>1245485212</ItemNumber><ItemName>Nokia lumia</ItemName><ItemDescription> improved durability, and a faster A13 chip</ItemDescription><ItemPrice>230</ItemPrice><ItemQuantity>25</ItemQuantity><OnHold>0</OnHold><Sold>0</Sold></Item><Item><ItemNumber>540177959</ItemNumber><ItemName>Motorola pro</ItemName><ItemDescription> improved durability, and a faster A13 chip</ItemDescription><ItemPrice>230</ItemPrice><ItemQuantity>27</ItemQuantity><OnHold>0</OnHold><Sold>0</Sold></Item></Goods>

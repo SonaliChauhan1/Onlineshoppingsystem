@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Goods>
+  <Item>
+    <ItemNumber>1373692161</ItemNumber>
+    <ItemName>Samsung 4G</ItemName>
+    <ItemDescription>Samsung 4G is a androis phone.</ItemDescription>
+    <ItemPrice>123</ItemPrice>
+    <ItemQuantity>0</ItemQuantity>
+    <OnHold>12</OnHold>
+    <Sold>0</Sold>
+  </Item>
+<Item><ItemNumber>1957231134</ItemNumber><ItemName>iphone</ItemName><ItemDescription>ihpne</ItemDescription><ItemPrice>500</ItemPrice><ItemQuantity>90</ItemQuantity><OnHold>0</OnHold><Sold>0</Sold></Item></Goods>

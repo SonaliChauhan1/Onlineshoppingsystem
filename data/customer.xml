@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <customerid>604</customerid>
+    <firstname>sonali</firstname>
+    <lastname>chauhan</lastname>
+    <email>ersonalichauhan@gmail.com</email>
+    <password>202cb962ac59075b964b07152d234b70</password>
+    <contact/>
+  </customer>
+<customer><customerid>2499</customerid><firstname>rachel</firstname><lastname>nelson</lastname><email>rachel@gmail.com</email><password>202cb962ac59075b964b07152d234b70</password><contact>07 44118855</contact></customer><customer><customerid>2372</customerid><firstname>jenny</firstname><lastname>lai</lastname><email>jenny@yahoo.com</email><password>202cb962ac59075b964b07152d234b70</password><contact>02 33665522</contact></customer><customer><customerid>1278</customerid><firstname>kamal</firstname><lastname>kaur</lastname><email>kaur@gmail.com</email><password>202cb962ac59075b964b07152d234b70</password><contact>02 66554488</contact></customer><customer><customerid>2944</customerid><firstname>krupali</firstname><lastname>joshi</lastname><email>krupali@gmail.com</email><password>202cb962ac59075b964b07152d234b70</password><contact>02 25569645</contact></customer><customer><customerid>339</customerid><firstname>jordan</firstname><lastname>michal</lastname><email>jordan@gmail.com</email><password>202cb962ac59075b964b07152d234b70</password><contact/></customer></customers>

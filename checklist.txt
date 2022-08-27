@@ -1,0 +1,48 @@
+Name: SONALI CHAUHAN Student ID: 102836414
+
+Checklist of Tasks Completion (please tick each one as appropriate)
+
+Comment and readme file YES
+Task 1: YES  
+Task 2.1 YES  
+Task 2.2 YES  
+Task 2.3 YES 
+Task 2.4 YES 
+Task 3.1 YES  
+Task 3.2 YES  
+Task 3.3 YES 
+Task 3.4 YES
+Task 3.5 Partially 
+Task 4.1 YES
+Task 4.2 YES
+Task 4.3 YES
+Task 4.4 YES
+Task 4.5 YES
+Task 4.6 NO
+Task 4.7 Partially
+Task 5.1 YES
+Task 5.2 NO
+Task 5.3 Partially
+
+
+NOT WORKING /Defects / Uncompleted tasks:
+
+Task 3.5 Logout partially working. On clicking the logout link the logout page is displayed and session is destroyed but manager id is not printed. 
+	 I don't understand how to display manager id in html page using php/javascript it is too complicated. 
+ 
+Task 4.6 confirm/cancel buttons are display but confirm and cancel functionality is not working. I cannot find a solution on how to parse data of xml
+	 stored in a session cart. so if i am able to access xml file from session i can do foreach loop and get data and update it.
+
+Task 5.2 Cannot perform this process functionality because it is dependent on task 4.6.
+
+Task 4.7 Logout partially working. On clicking the logout link the logout page is displayed and session is destroyed but cutomer id is not printed. 
+	 I don't understand how to display customer id in html page using php. 
+	 The cancel button is not working. I cannot understand how to use temporary xml cart to do cancel and confirm. 
+
+Task 5.3 Logout partially working. On clicking the logout link the logout page is displayed and session is destroyed but manager id is not printed. 
+	 I don't understand how to display manager id in html page using php.
+
+Comment: 1) The system is little slow as it is running xml and php one after another so please wait for the onclick event to execute.
+	2) When accesing the manager login please wait till the loading..... sign/message appears after successful login, which will then load the buying
+	 page. Just a new functionality I added.
+	3) Alerting responsexml as well as responsetext to display details.
